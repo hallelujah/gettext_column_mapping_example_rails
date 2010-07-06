@@ -1,0 +1,14 @@
+==== A Rails application demonstrating GettextColumnMapping
+
+== Requirements
+    Rails 3
+    mysql
+
+
+== Installation
+
+    bundle install
+
+
+
+
